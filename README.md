@@ -8,9 +8,9 @@ hence the name "Trick Saber".
 [Documentation](https://tonimacaroni.github.io/TrickSaber-Docs/)
 
 ## Installation
-1) Download the latest release from here (the zip file): https://github.com/ToniMacaroni/TrickSaber/releases
+1) Download the latest release from here (the dll file): https://github.com/turecross321/TrickSaber/releases/tag/idk
 2) Make sure you have installed the dependencies listed in the release
-3) Drop the zip contents into your Beat Saber directory
+3) Put TrickSaber.dll in the `Plugins` folder in your game directory
 
 **If you use index controllers you HAVE to choose a compatible SteamVR binding**  
 *Take a look [here](https://www.youtube.com/watch?v=e3NI0mjVM0s) on how to do that*
