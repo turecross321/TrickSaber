@@ -34,3 +34,9 @@ You can configure most of the Plugin by going into the "Mods" tab on the left pa
 For more stuff and in-depth explanation see [Configuration](https://tonimacaroni.github.io/TrickSaber-Docs/Configuration.html)
 
 **Preview: https://www.youtube.com/watch?v=6xxpupYYjoQ**
+
+## Building
+- Copy all the files in your Beat Saber install to `TrickSaber/TrickSaber/Refs`
+- Install the [.NET 7.0 SDK](https://dotnet.microsoft.com/en-us/download) if you do not already have it installed
+- Navigate to `TrickSaber/TrickSaber` and run `dotnet build`
+- Copy TrickSaber.dll to the `Plugins` folder in your Beat Saber install
